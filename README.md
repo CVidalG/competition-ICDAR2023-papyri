@@ -16,6 +16,8 @@ pip install ipykernel
 
 Source code : https://github.com/ultralytics/yolov5
 
+### Installation
+
 ```bash
 conda create --name yolo python=3.8
 pip install ultralytics
@@ -23,8 +25,18 @@ pip install ipykernel
 pip install albumentations==1.0.3
 ```
 
+### Training
+
+### Validation
+
+### Prediction
+
 ## To Do
 
-- [ ] balance des classes
+- [X] balance des classes
 - [ ] reproduire expérience baseline
 - [ ] benchmark des propriétés des modèles de Detectron 2
+
+- [ ] correction des classes de Yolo
+- [ ] Visualisation des predictions de la baseline
+- [ ] Split à nouveau des données pour avoir le même ensemble pour pred
