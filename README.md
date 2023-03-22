@@ -20,6 +20,7 @@ Source code : https://github.com/ultralytics/yolov5
 conda create --name yolo python=3.8
 pip install ultralytics
 pip install ipykernel
+pip install albumentations==1.0.3
 ```
 
 ## To Do
