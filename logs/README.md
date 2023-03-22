@@ -13,3 +13,4 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 | 2023-03-21_1 | yolov5l6.pt | 0.764   | 0.38    | 0.585       | 0.353          | without data-augment     |
 | 2023-03-21_2 | yolov5l6.pt | 0.744   | 0.371   | 0.57        | 0.347          | with custom data-augment |
 | 2023-03-21_3 | yolov5x6.pt | 0.765   | 0.248   | 0.515       | 0.3180         | with custom data-augment |
+| 2023-03-22_1 | yolov5x6.pt | 0.708   | 0.313   | 0.523       | 0.306          | without data-augment     |
