@@ -34,6 +34,7 @@ pip install albumentations==1.0.3
 ## To Do
 
 - [X] balance des classes
+- [ ] écrire à l'équipe pour le fichier .bins
 - [ ] reproduire expérience baseline
 - [ ] benchmark des propriétés des modèles de Detectron 2
 
