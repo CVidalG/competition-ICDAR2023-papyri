@@ -27,17 +27,38 @@ pip install albumentations==1.0.3
 
 ### Training
 
+```bash
+yolo detect train data=path/to/custom/config.yaml model=path/to/pretrained/model.pt
+```
+
 ### Validation
 
+```bash
+yolo detect val data=path/to/custom/config.yaml model=path/to/my/model.pt
+```
+
 ### Prediction
+
+#### CLI
+
+```bash
+yolo detect predict model=path/to/my/model.pt source='path/to/my/image.jpg'
+```
+
+#### Python (see [notebook](https://github.com/CVidalG/competition-ICDAR2023-papyri/blob/main/notebooks/predict_yolo.ipynb))
+
+```python
+model = YOLO("path/to/my/model/best.pt")
+results = model.predict(source="path/to/my/folder", save=True)
+```
 
 ## To Do
 
 - [X] balance des classes
 - [ ] écrire à l'équipe pour le fichier .bins
 - [ ] reproduire expérience baseline
-- [ ] benchmark des propriétés des modèles de Detectron 2
+- [X] benchmark des propriétés des modèles de Detectron 2
 
-- [ ] correction des classes de Yolo
-- [ ] Visualisation des predictions de la baseline
-- [ ] Split à nouveau des données pour avoir le même ensemble pour pred
+- [X] correction des classes de Yolo
+- [X] Visualisation des predictions de la baseline
+- [X] Split à nouveau des données pour avoir le même ensemble pour pred
