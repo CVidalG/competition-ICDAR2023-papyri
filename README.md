@@ -55,7 +55,7 @@ results = model.predict(source="path/to/my/folder", save=True)
 ## To Do
 
 - [X] balance des classes
-- [ ] écrire à l'équipe pour le fichier .bins
+- [X] écrire à l'équipe pour le fichier .bins
 - [ ] reproduire expérience baseline
 - [X] benchmark des propriétés des modèles de Detectron 2
 
