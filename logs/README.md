@@ -19,3 +19,4 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 | 2023-03-28_1 | yolov5l6.pt |         |         |             |                | 24 classes / with invert in data-aug / with split baseline   |
 | 2023-03-28_2 | yolov5l6.pt |         |         |             |                | 24 classes / with inverted data/ with split baseline         |
 | 2023-03-29_1 | yolov5x6.pt |         |         |             |                | 24 classes / with invert in data-aug / with split baseline  / 1536 px    |
+| 2023-03-30_1 | yolov5x6.pt | 0.730   | 0.521   | 0.656       | 0.402          | 24 classes / with invert in data-aug / with split baseline  / 1536 px / with CONF IoU 85   |
