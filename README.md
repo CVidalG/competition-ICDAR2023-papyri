@@ -52,6 +52,14 @@ model = YOLO("path/to/my/model/best.pt")
 results = model.predict(source="path/to/my/folder", save=True)
 ```
 
+## Data transformation
+
+Invert IMG
+
+```bash
+for i in *.jpg ; do convert $i -channel RGB -negate $i ; done
+```
+
 ## To Do
 
 - [X] balance des classes
