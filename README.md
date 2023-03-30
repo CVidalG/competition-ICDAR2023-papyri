@@ -12,6 +12,10 @@ python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wh
 pip install ipykernel
 ```
 
+### Training / Prediction
+
+see [notebook](https://github.com/CVidalG/competition-ICDAR2023-papyri/blob/main/notebooks/manipulations_detectron2.ipynb)
+
 ## Yolo V5
 
 Source code : https://github.com/ultralytics/yolov5
@@ -30,6 +34,10 @@ pip install albumentations==1.0.3
 ```bash
 yolo detect train data=path/to/custom/config.yaml model=path/to/pretrained/model.pt
 ```
+
+#### Configs (hyperparameters, etc)
+
+see [configs](https://github.com/CVidalG/competition-ICDAR2023-papyri/tree/main/yolo_configs)
 
 ### Validation
 
