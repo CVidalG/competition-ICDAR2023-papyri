@@ -21,4 +21,5 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 | 2023-03-29_1 | yolov5x6.pt |         |         |             |                | 24      | 1536       | null     | 0.70       | with invert in data-aug / with split baseline  |
 | 2023-03-30_1 | yolov5x6.pt | 0.730   | 0.521   | 0.656       | 0.402          | 24      | 1536       | 0.25     | 0.85       | with invert in data-aug / with split baseline  |
 | 2023-03-30_2 | yolov5l6.pt | 0.752   | 0.537   | 0.675       | 0.406          | 24      | 1536       | 0.45     | 0.90       | with inverted data / with split baseline       |
-| 2023-03-31_1s | yolov5x6.pt | 0.755   | 0.506   | 0.658       | 0.411         | 24      | 1536       | 0.45     | 0.90       | with inverted data / with split baseline       |
+| 2023-03-31_1 | yolov5x6.pt | 0.755   | 0.506   | 0.658       | 0.411         | 24      | 1536       | 0.45     | 0.90       | with inverted data / with split baseline       |
+| 2023-04-01_1 | yolov5l6.pt | 0.699   | 0.495   | 0.630       | 0.404         | 24      | 1536       | 0.40     | 0.90       | default augment / with inverted data / with split baseline       |
