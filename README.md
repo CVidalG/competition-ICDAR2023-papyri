@@ -1,5 +1,8 @@
 # competition-ICDAR2023-papyri
 
+Website : https://lme.tf.fau.de/competitions/2023-competition-on-detection-and-recognition-of-greek-letters-on-papyri/
+Codalab : https://codalab.lisn.upsaclay.fr/competitions/11675
+
 ## Detectron 2
 
 Source code : https://github.com/facebookresearch/detectron2
