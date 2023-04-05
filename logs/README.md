@@ -8,6 +8,7 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 
 | ExpeName     | BaseModel   | P (val) | R (val) | mAP50 (val) | mAP50-95 (val) | classes | Image size | Val Conf | Thres. IoU | Comments                                       |
 |--------------|-------------|---------|---------|-------------|----------------|---------|------------|----------|------------|------------------------------------------------|
+|--------------|-------------|---------|---------|-------------|----------------|---------|------------|----------|------------|------------------------------------------------|
 | 2023-03-19_1 | yolov8n.pt  | 0.444   | 0.154   | 0.3         | 0.188          | 227     | 1280       | null     | 0.70       | default config                                 |
 | 2023-03-19_2 | yolov5l6.pt | 0.803   | 0.269   | 0.542       | 0.339          | 227     | 1240       | null     | 0.70       | default config                                 |
 | 2023-03-21_1 | yolov5l6.pt | 0.764   | 0.38    | 0.585       | 0.353          | 227     | 1240       | null     | 0.70       | without data-augment                           |
@@ -26,3 +27,5 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 | 2023-04-02_1 | yolov5l6.pt | 0.674   | 0.522   | 0.629       | 0.401         | 24      | 1536       | 0.45     | 0.90       | default augment / with inverted data / with split baseline / lrf: 0.1 / nbs: 128       |
 | 2023-04-02_2 | yolov5l6.pt | 0.729   | 0.514   | 0.650       | 0.400         | 24      | 1536       | 0.45     | 0.90       | with inverted data / with split baseline / with BG img       |
 | 2023-04-03_1 | yolov5l6.pt | 0.749   | 0.527   | 0.670       | 0.410         | 24      | 2048       | 0.45     | 0.90       | with inverted data / with split baseline / with BG img / BS 1      |
+|--------------|-------------|---------|---------|-------------|----------------|---------|------------|----------|------------|------------------------------------------------|
+| 2023-04-04_full | yolov5l6.pt | 0.792   | 0.589   | 0.716       | 0.425         | 24      | 1536       | 0.45     | 0.90       | with inverted data / with split baseline / with BG img / DO 0.1      |
