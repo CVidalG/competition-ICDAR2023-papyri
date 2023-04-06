@@ -29,3 +29,4 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 | 2023-04-03_1 | yolov5l6.pt | 0.749   | 0.527   | 0.670       | 0.410         | 24      | 2048       | 0.45     | 0.90       | with inverted data / with split baseline / with BG img / BS 1      |
 |--------------|-------------|---------|---------|-------------|----------------|---------|------------|----------|------------|------------------------------------------------|
 | 2023-04-04_full | yolov5l6.pt | 0.792   | 0.589   | 0.716       | 0.425         | 24      | 1536       | 0.45     | 0.90       | with inverted data / with split baseline / with BG img / DO 0.1      |
+| 2023-04-04_default | yolov5l6.pt | 0.705   | 0.575   | 0.624       | 0.349         | 24      | 1536       | null     | 0.70       | with inverted data / default clean config |

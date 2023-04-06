@@ -1,0 +1,1533 @@
+{
+    "annotations": [],
+    "categories": [
+        {
+            "id": 1,
+            "name": "\u03c7",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 2,
+            "name": "K",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 3,
+            "name": "\u1f56",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 4,
+            "name": "\u038e",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 5,
+            "name": "\u03b8",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 6,
+            "name": "\u03c6",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 7,
+            "name": "\u0398",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 8,
+            "name": "\u0391",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 9,
+            "name": "\u0392",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 10,
+            "name": "\u1fb6",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 11,
+            "name": ";",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 12,
+            "name": "\u03c8",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 13,
+            "name": "\u1f34",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 14,
+            "name": "\u03a4",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 15,
+            "name": "\u1ff4",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 16,
+            "name": "A",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 17,
+            "name": "\u039e",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 18,
+            "name": "\u1f19",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 19,
+            "name": "\u1f6c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 20,
+            "name": "\u203e",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 21,
+            "name": "\u1f11",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 22,
+            "name": "\u1f26",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 23,
+            "name": "\u0395",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 24,
+            "name": "\u03ca",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 25,
+            "name": "\u1fe2",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 26,
+            "name": "\u1ffc",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 27,
+            "name": "\u1f30",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 28,
+            "name": "\u1f3c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 29,
+            "name": "\u1fb9",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 30,
+            "name": "\u1f72",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 31,
+            "name": "\u00b7",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 32,
+            "name": "\u1f69",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 33,
+            "name": "\u039a",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 34,
+            "name": "\u1f79",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 35,
+            "name": "\u1f2f",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 36,
+            "name": "\u1f59",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 37,
+            "name": "\u1f66",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 38,
+            "name": "\u1f76",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 39,
+            "name": "?",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 40,
+            "name": "\u03ad",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 41,
+            "name": "\u1f50",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 42,
+            "name": "\u03bb",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 43,
+            "name": "\u03c5",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 44,
+            "name": "\u03c9",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 45,
+            "name": "\u03a9",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 46,
+            "name": "\u1fea",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 47,
+            "name": "\u1f37",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 48,
+            "name": "n",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 49,
+            "name": "\u03ba",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 50,
+            "name": "\u1f53",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 51,
+            "name": "\u1f44",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 52,
+            "name": "\u1f06",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 53,
+            "name": "\u1fb3",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 54,
+            "name": "\u038a",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 55,
+            "name": "\u038f",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 56,
+            "name": "\u03ce",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 57,
+            "name": "\u1f01",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 58,
+            "name": "\u1f4c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 59,
+            "name": "\u039c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 60,
+            "name": "\u035c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 61,
+            "name": "\u03c4",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 62,
+            "name": "\u1f0c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 63,
+            "name": "\u1fda",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 64,
+            "name": "\u1fa4",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 65,
+            "name": "\u1fb7",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 66,
+            "name": "\u1f3e",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 67,
+            "name": "\u03ae",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 68,
+            "name": "\u1f61",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 69,
+            "name": "a",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 70,
+            "name": "\u1f2d",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 71,
+            "name": "\u1f31",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 72,
+            "name": "\u02bc",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 73,
+            "name": "\u1f68",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 74,
+            "name": "\u1f48",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 75,
+            "name": "\u1f04",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 76,
+            "name": "\u03c2",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 77,
+            "name": "\u03a6",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 78,
+            "name": "\u1f15",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 79,
+            "name": "\u1f08",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 80,
+            "name": "\u1f97",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 81,
+            "name": "\u1f02",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 82,
+            "name": "\u1fc4",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 83,
+            "name": "\u1f00",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 84,
+            "name": "\u03f2",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 85,
+            "name": "\u1fc7",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 86,
+            "name": "\u0386",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 87,
+            "name": "\u0389",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 88,
+            "name": "\u1f33",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 89,
+            "name": "g",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 90,
+            "name": "\u1f7a",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 91,
+            "name": "i",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 92,
+            "name": "\u1fcc",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 93,
+            "name": "C",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 94,
+            "name": "\u03cc",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 95,
+            "name": "\u1f05",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 96,
+            "name": "\u0388",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 97,
+            "name": "\u1fa0",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 98,
+            "name": "\u1f23",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 99,
+            "name": "\u0196",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 100,
+            "name": "\u03a1",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 101,
+            "name": "\u03be",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 102,
+            "name": ")",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 103,
+            "name": "\u03b5",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 104,
+            "name": "\u1f18",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 105,
+            "name": "\u03b9",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 106,
+            "name": "\u03c7",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 107,
+            "name": "\u03a0",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 108,
+            "name": "\u1f10",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 109,
+            "name": "\u1ff3",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 110,
+            "name": "\u03b6",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 111,
+            "name": "\u0393",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 112,
+            "name": "\u1f43",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 113,
+            "name": "{",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 114,
+            "name": "\u1f57",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 115,
+            "name": "\u1f1c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 116,
+            "name": "\u03b7",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 117,
+            "name": "\u1f39",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 118,
+            "name": "\u03ab",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 119,
+            "name": "\u039d",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 120,
+            "name": "\u039b",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 121,
+            "name": "\u1f41",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 122,
+            "name": "\u1f38",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 123,
+            "name": "\u1f1d",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 124,
+            "name": "\u03c0",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 125,
+            "name": "\u1f24",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 126,
+            "name": "\u1f45",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 127,
+            "name": "+",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 128,
+            "name": "\u1f20",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 129,
+            "name": "[",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 130,
+            "name": "\u1ff9",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 131,
+            "name": "\u1f78",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 132,
+            "name": "\u1f25",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 133,
+            "name": "\u1f60",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 134,
+            "name": "\u1fca",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 135,
+            "name": "\u03b0",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 136,
+            "name": "\u03cd",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 137,
+            "name": "\u03bd",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 138,
+            "name": "\u1ff6",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 139,
+            "name": "\u1fd2",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 140,
+            "name": "\u1f7c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 141,
+            "name": "\u038c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 142,
+            "name": "\u03a3",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 143,
+            "name": "k",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 144,
+            "name": "\u0396",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 145,
+            "name": "\u1fc6",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 146,
+            "name": "\u1f67",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 147,
+            "name": "\u0269",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 148,
+            "name": "\u1f35",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 149,
+            "name": "\u1f5b",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 150,
+            "name": "\u0397",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 151,
+            "name": "\u1f64",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 152,
+            "name": "\u1fe5",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 153,
+            "name": "\u1f36",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 154,
+            "name": "\u03c1",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 155,
+            "name": "\u1fbd",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 156,
+            "name": "c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 157,
+            "name": "\u1f65",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 158,
+            "name": "\u1f3a",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 159,
+            "name": "\u1f14",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 160,
+            "name": "\u03b2",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 161,
+            "name": "\u03a5",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 162,
+            "name": "\u1ffa",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 163,
+            "name": "\u0486",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 164,
+            "name": "]",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 165,
+            "name": "\u03b1",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 166,
+            "name": "\u03c3",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 167,
+            "name": "\u1f63",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 168,
+            "name": "I",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 169,
+            "name": "\u03a8",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 170,
+            "name": "\u1f22",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 171,
+            "name": "\u1f70",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 172,
+            "name": ",",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 173,
+            "name": "\u1fc3",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 174,
+            "name": "\u1fa7",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 175,
+            "name": "h",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 176,
+            "name": ".",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 177,
+            "name": "\u03a7",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 178,
+            "name": "\u1f27",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 179,
+            "name": "\u1fb1",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 180,
+            "name": "\u1fe6",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 181,
+            "name": "}",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 182,
+            "name": "\u1fec",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 183,
+            "name": "\u03b3",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 184,
+            "name": "s",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 185,
+            "name": "\u1f2c",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 186,
+            "name": "\u0394",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 187,
+            "name": "x",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 188,
+            "name": "\u1fd6",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 189,
+            "name": "\u1f03",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 190,
+            "name": "\u1f09",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 191,
+            "name": "\u1ff8",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 192,
+            "name": "\u1f21",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 193,
+            "name": "\u02d9",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 194,
+            "name": "\u1f40",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 195,
+            "name": "(",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 196,
+            "name": "\u1ff7",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 197,
+            "name": "\u03b4",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 198,
+            "name": "\u1fc8",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 199,
+            "name": "m",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 200,
+            "name": "\u1f6a",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 201,
+            "name": "\u039f",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 202,
+            "name": "\u03cb",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 203,
+            "name": "\u1f62",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 204,
+            "name": "\u1f95",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 205,
+            "name": "\u1f0d",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 206,
+            "name": "\u1f5d",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 207,
+            "name": "\u03bf",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 208,
+            "name": "\u1f54",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 209,
+            "name": "\u03af",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 210,
+            "name": "\u1f0b",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 211,
+            "name": "\u1f55",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 212,
+            "name": "\u0399",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 213,
+            "name": "\u1f74",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 214,
+            "name": "\u0344",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 215,
+            "name": "\u0390",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 216,
+            "name": "\u0342",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 217,
+            "name": "\u03aa",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 218,
+            "name": "\u1f29",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 219,
+            "name": "\u03ac",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 220,
+            "name": "\u2019",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 221,
+            "name": "\u1f51",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 222,
+            "name": "\u1f0e",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 223,
+            "name": "\u03bc",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 224,
+            "name": "\u1f94",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 225,
+            "name": "\u03f9",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 226,
+            "name": "\u1f28",
+            "supercategory": "Greek"
+        },
+        {
+            "id": 227,
+            "name": "\u1f32",
+            "supercategory": "Greek"
+        }
+    ],
+    "images": [
+        {
+            "bln_id": 5833,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt101/P_Oxy_3_551.jpg",
+            "height": 1640,
+            "id": 5833,
+            "img_url": "./images/homer2/txt101/P_Oxy_3_551.jpg",
+            "license": 1,
+            "width": 2264
+        },
+        {
+            "bln_id": 2500,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt13/P_Hamb_graec_385.jpg",
+            "height": 6193,
+            "id": 2500,
+            "img_url": "./images/homer2/txt13/P_Hamb_graec_385.jpg",
+            "license": 6,
+            "width": 6419
+        },
+        {
+            "bln_id": 10148,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt132/901045_0003.jpg",
+            "height": 7600,
+            "id": 10148,
+            "img_url": "./images/homer2/txt132/901045_0003.jpg",
+            "license": 7,
+            "width": 7747
+        },
+        {
+            "bln_id": 2599,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt14/P_Hamb_graec_83.jpg",
+            "height": 5144,
+            "id": 2599,
+            "img_url": "./images/homer2/txt14/P_Hamb_graec_83.jpg",
+            "license": 6,
+            "width": 4258
+        },
+        {
+            "bln_id": 10498,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt146/P_Flor_2_109r.jpg",
+            "height": 2187,
+            "id": 10498,
+            "img_url": "./images/homer2/txt146/P_Flor_2_109r.jpg",
+            "license": 1,
+            "width": 1163
+        },
+        {
+            "bln_id": 2679,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt16/P_Hamb_graec_384cut.jpg",
+            "height": 3063,
+            "id": 2679,
+            "img_url": "./images/homer2/txt16/P_Hamb_graec_384cut.jpg",
+            "license": 6,
+            "width": 1576
+        },
+        {
+            "bln_id": 2865,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt19/Brux_Inv_7160.jpg",
+            "height": 1630,
+            "id": 2865,
+            "img_url": "./images/homer2/txt19/Brux_Inv_7160.jpg",
+            "license": 1,
+            "width": 1186
+        },
+        {
+            "bln_id": 2875,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt21/G_26729_Pap_recto.jpg",
+            "height": 3266,
+            "id": 2875,
+            "img_url": "./images/homer2/txt21/G_26729_Pap_recto.jpg",
+            "license": 1,
+            "width": 1612
+        },
+        {
+            "bln_id": 2915,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt23/P_13424_R_3_001.jpg",
+            "height": 2819,
+            "id": 2915,
+            "img_url": "./images/homer2/txt23/P_13424_R_3_001.jpg",
+            "license": 4,
+            "width": 2157
+        },
+        {
+            "bln_id": 2944,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt24/P_Hamb_graec_757.jpg",
+            "height": 6530,
+            "id": 2944,
+            "img_url": "./images/homer2/txt24/P_Hamb_graec_757.jpg",
+            "license": 6,
+            "width": 2971
+        },
+        {
+            "bln_id": 2973,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt26/G_19768_Pap.jpg",
+            "height": 4892,
+            "id": 2973,
+            "img_url": "./images/homer2/txt26/G_19768_Pap.jpg",
+            "license": 1,
+            "width": 1204
+        },
+        {
+            "bln_id": 3,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt3/P_Mich_inv_2755.jpg",
+            "height": 2840,
+            "id": 3,
+            "img_url": "./images/homer2/txt3/P_Mich_inv_2755.jpg",
+            "license": 9,
+            "width": 1136
+        },
+        {
+            "bln_id": 3233,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt36/P_Oslo_3_69.jpg",
+            "height": 2128,
+            "id": 3233,
+            "img_url": "./images/homer2/txt36/P_Oslo_3_69.jpg",
+            "license": 1,
+            "width": 2214
+        },
+        {
+            "bln_id": 3241,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt37/P_Mich_inv_6972.jpg",
+            "height": 4734,
+            "id": 3241,
+            "img_url": "./images/homer2/txt37/P_Mich_inv_6972.jpg",
+            "license": 2,
+            "width": 5669
+        },
+        {
+            "bln_id": 4,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt4/PSI_XIV_1376_r.jpg",
+            "height": 2716,
+            "id": 4,
+            "img_url": "./images/homer2/txt4/PSI_XIV_1376_r.jpg",
+            "license": 2,
+            "width": 1068
+        },
+        {
+            "bln_id": 3295,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt40/P_Oxy_3_552.jpg",
+            "height": 1612,
+            "id": 3295,
+            "img_url": "./images/homer2/txt40/P_Oxy_3_552.jpg",
+            "license": 1,
+            "width": 800
+        },
+        {
+            "bln_id": 3345,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt43/P_Oxy_3_559.jpg",
+            "height": 2287,
+            "id": 3345,
+            "img_url": "./images/homer2/txt43/P_Oxy_3_559.jpg",
+            "license": 1,
+            "width": 2400
+        },
+        {
+            "bln_id": 3418,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt44/P_Oxy_3_540.jpg",
+            "height": 4759,
+            "id": 3418,
+            "img_url": "./images/homer2/txt44/P_Oxy_3_540.jpg",
+            "license": 2,
+            "width": 4789
+        },
+        {
+            "bln_id": 3534,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt51/P_07499_R_001.jpg",
+            "height": 3094,
+            "id": 3534,
+            "img_url": "./images/homer2/txt51/P_07499_R_001.jpg",
+            "license": 4,
+            "width": 3574
+        },
+        {
+            "bln_id": 4087,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt51/P_07502_R_001.jpg",
+            "height": 3267,
+            "id": 4087,
+            "img_url": "./images/homer2/txt51/P_07502_R_001.jpg",
+            "license": 4,
+            "width": 3041
+        },
+        {
+            "bln_id": 3604,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt53/P_11676_R_001.jpg",
+            "height": 3640,
+            "id": 3604,
+            "img_url": "./images/homer2/txt53/P_11676_R_001.jpg",
+            "license": 4,
+            "width": 6143
+        },
+        {
+            "bln_id": 3668,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt55/P_Oxy_3_556.jpg",
+            "height": 1873,
+            "id": 3668,
+            "img_url": "./images/homer2/txt55/P_Oxy_3_556.jpg",
+            "license": 1,
+            "width": 800
+        },
+        {
+            "bln_id": 3704,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt58/P_Koln_I_24.JPG",
+            "height": 1954,
+            "id": 3704,
+            "img_url": "./images/homer2/txt58/P_Koln_I_24.JPG",
+            "license": 2,
+            "width": 1356
+        },
+        {
+            "bln_id": 6,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt6/P_Laur_IV_126r.jpg",
+            "height": 1918,
+            "id": 6,
+            "img_url": "./images/homer2/txt6/P_Laur_IV_126r.jpg",
+            "license": 1,
+            "width": 2533
+        },
+        {
+            "bln_id": 3959,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt64/P_Koln_II_76.jpg",
+            "height": 1758,
+            "id": 3959,
+            "img_url": "./images/homer2/txt64/P_Koln_II_76.jpg",
+            "license": 2,
+            "width": 2532
+        },
+        {
+            "bln_id": 4287,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt77/P_16007_R_001.jpg",
+            "height": 5618,
+            "id": 4287,
+            "img_url": "./images/homer2/txt77/P_16007_R_001.jpg",
+            "license": 2,
+            "width": 5436
+        },
+        {
+            "bln_id": 8,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt8/P_Laur_IV_128r.jpg",
+            "height": 2535,
+            "id": 8,
+            "img_url": "./images/homer2/txt8/P_Laur_IV_128r.jpg",
+            "license": 10,
+            "width": 2249
+        },
+        {
+            "bln_id": 5022,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt82/P_Mich_inv_14.jpg",
+            "height": 4724,
+            "id": 5022,
+            "img_url": "./images/homer2/txt82/P_Mich_inv_14.jpg",
+            "license": 2,
+            "width": 3151
+        },
+        {
+            "bln_id": 5082,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt85/P_07803_R_4_001.jpg",
+            "height": 2335,
+            "id": 5082,
+            "img_url": "./images/homer2/txt85/P_07803_R_4_001.jpg",
+            "license": 4,
+            "width": 1481
+        },
+        {
+            "bln_id": 5113,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt85/P_07806_R_001.jpg",
+            "height": 2757,
+            "id": 5113,
+            "img_url": "./images/homer2/txt85/P_07806_R_001.jpg",
+            "license": 4,
+            "width": 2341
+        },
+        {
+            "bln_id": 5114,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt85/P_21101_R_4_001.jpg",
+            "height": 3868,
+            "id": 5114,
+            "img_url": "./images/homer2/txt85/P_21101_R_4_001.jpg",
+            "license": 4,
+            "width": 3125
+        },
+        {
+            "bln_id": 5163,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt88/P_Oxy_4_760_equal_Graz_Ms_I_1928.jpg",
+            "height": 1989,
+            "id": 5163,
+            "img_url": "./images/homer2/txt88/P_Oxy_4_760_equal_Graz_Ms_I_1928.jpg",
+            "license": 1,
+            "width": 1290
+        },
+        {
+            "bln_id": 5197,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt90/P_Mich_inv_44.jpg",
+            "height": 4401,
+            "id": 5197,
+            "img_url": "./images/homer2/txt90/P_Mich_inv_44.jpg",
+            "license": 2,
+            "width": 2432
+        },
+        {
+            "bln_id": 5791,
+            "date_captured": null,
+            "file_name": "./images/homer2/txt99/Sorbonne_inv_2265.jpg",
+            "height": 1469,
+            "id": 5791,
+            "img_url": "./images/homer2/txt99/Sorbonne_inv_2265.jpg",
+            "license": 2,
+            "width": 1237
+        }
+    ],
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Attribution-NonCommercial-ShareAlike License",
+            "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+        },
+        {
+            "id": 2,
+            "name": "CC-BY-NC 3.0.",
+            "url": "https://creativecommons.org/licenses/by/3.0/"
+        },
+        {
+            "id": 3,
+            "name": "CC-BY-NC 4.0.",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+            "id": 4,
+            "name": "Berliner Papyrusdatenbank CC-BY-NC 4.0.",
+            "url": "https://berlpap.smb.museum/nutzungshinweise/"
+        },
+        {
+            "id": 5,
+            "name": "Biblioth\u00e8que de Gen\u00e8ve",
+            "url": "https://archives.bge-geneve.ch/n/conditions-d-utilisation/n:121"
+        },
+        {
+            "id": 6,
+            "name": "Uni-Hamburg",
+            "url": "https://digitalisate.sub.uni-hamburg.de/urheberrechts-und-nutzungshinweise/"
+        },
+        {
+            "id": 7,
+            "name": "Digital Bodleian CC-BY-NC 4.0.",
+            "url": "https://digital.bodleian.ox.ac.uk/terms/"
+        },
+        {
+            "id": 8,
+            "name": "Uni Heidelberg - Restrictive",
+            "url": "https://www.uni-heidelberg.de/fakultaeten/philosophie/zaw/papy/images.html"
+        },
+        {
+            "id": 9,
+            "name": "No lisence"
+        },
+        {
+            "id": 10,
+            "name": "PSI lisence",
+            "url": "http://www.psi-online.it/rightpermission"
+        }
+    ]
+}

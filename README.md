@@ -81,11 +81,20 @@ for i in *.jpg ; do convert $i -channel RGB -negate $i ; done
 
 ## To Do
 
+- [ ] reproduire expérience baseline
+- [ ] sortir résultats par image val
+- [ ] tableau / schéma distribution des résultats en val
+- [ ] reprise des entraînements en touchant au DropOut / Conf / IoU / loss gain
+- [ ] exporter crops de chaque bbox
+- [ ] entraîner classifieur indépendant pour les crops
+- [ ] entraîner yolo uniquement en localisation de caractère sans classe
+
+
+
+### Archive
 - [X] balance des classes
 - [X] écrire à l'équipe pour le fichier .bins
-- [ ] reproduire expérience baseline
 - [X] benchmark des propriétés des modèles de Detectron 2
-
 - [X] correction des classes de Yolo
 - [X] Visualisation des predictions de la baseline
 - [X] Split à nouveau des données pour avoir le même ensemble pour pred
