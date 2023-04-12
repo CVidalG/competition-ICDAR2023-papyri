@@ -1,0 +1,13 @@
+data: /home/chahan/ICDAR_comp/HomerCompTraining/configs/papyri_yolo.yaml
+model: yolov5l6u.pt
+imgsz: 1536
+batch: 2
+conf: 0.45
+iou: 0.9
+epochs: 100
+patience: 150
+mosaic: 0.5
+half: True
+cache: True
+nbs: 128
+cls: 2.5

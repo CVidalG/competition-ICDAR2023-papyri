@@ -16,6 +16,8 @@ from ..utils.metrics import bbox_ioa
 from ..utils.ops import segment2box
 from .utils import polygons2masks, polygons2masks_overlap
 
+from albumentations import OneOf
+
 
 # TODO: we might need a BaseTransform to make all these augments be compatible with both classification and semantic
 class BaseTransform:
@@ -558,15 +560,19 @@ class Albumentations:
             check_version(A.__version__, '1.0.3', hard=True)  # version requirement
 
             T = [
-                # A.Blur(p=0.01),
-                # A.MedianBlur(p=0.01),
-                # A.ToGray(p=0.01),
-                # A.CLAHE(p=0.01),
-                # A.RandomBrightnessContrast(p=0.0),
-                # A.RandomGamma(p=0.0),
-                # A.ImageCompression(quality_lower=75, p=0.0),
-                A.MultiplicativeNoise(multiplier=[0.5, 1.5], elementwise=True, p=0.5),
-                A.Cutout(num_holes=100, max_h_size=30, max_w_size=30, fill_value=0, p=0.5)]  # transforms
+                OneOf([
+                    A.Blur(p=0.05),
+                    A.CLAHE(p=0.05),
+                    A.RandomBrightnessContrast(p=0.15),
+                    A.InvertImg(p=0.10),
+                    A.MultiplicativeNoise(multiplier=[0.8, 1.2], elementwise=True, p=0.15),
+                    A.ImageCompression(quality_lower=30, p=0.05),
+               ], p=0.5),
+               OneOf([
+                    A.Cutout(num_holes=120, max_h_size=30, max_w_size=30, fill_value=0, p=0.5),
+                    A.Cutout(num_holes=1000, max_h_size=5, max_w_size=5, fill_value=255, p=0.25)
+            ], p=0.5),
+               ]  # transforms
             self.transform = A.Compose(T, bbox_params=A.BboxParams(format='yolo', label_fields=['class_labels']))
 
             LOGGER.info(prefix + ', '.join(f'{x}'.replace('always_apply=False, ', '') for x in T if x.p))
