@@ -78,6 +78,9 @@ Invert IMG
 ```bash
 for i in *.jpg ; do convert $i -channel RGB -negate $i ; done
 
+
+
+```
 ## Correspondance des lettres grecques et des id du json : 
 
 {'Ε': 23,
@@ -105,8 +108,6 @@ for i in *.jpg ; do convert $i -channel RGB -negate $i ; done
  'Ζ': 144,
  'Ψ': 169,
  '.': 176}
-
-```
 
 ## To Do
 
