@@ -3,7 +3,7 @@
 ## Main informations
 Website : https://lme.tf.fau.de/competitions/2023-competition-on-detection-and-recognition-of-greek-letters-on-papyri/
 
-Codalab : https://codalab.lisn.upsaclay.fr/competitions/11675
+Codalab : https://codalab.lisn.upsaclay.fr/competitions/12419
 
 ## Dataset
 
@@ -83,6 +83,7 @@ for i in *.jpg ; do convert $i -channel RGB -negate $i ; done
 ```
 ## Correspondance des lettres grecques et des id du json : 
 
+```
 {'Ε': 23,
  'Α': 8,
  'Ο': 201,
@@ -108,17 +109,25 @@ for i in *.jpg ; do convert $i -channel RGB -negate $i ; done
  'Ζ': 144,
  'Ψ': 169,
  '.': 176}
+```
+
+## Documentation évaluation
+
+COCO GT format : https://cocodataset.org/#format-data
+
+COCO Pred format : https://cocodataset.org/#format-results
 
 ## To Do
 
-- [ ] reproduire expérience baseline
-- [ ] sortir résultats par image val
-- [ ] tableau / schéma distribution des résultats en val
-- [ ] reprise des entraînements en touchant au DropOut / Conf / IoU / loss gain
-- [ ] exporter crops de chaque bbox
-- [ ] entraîner classifieur indépendant pour les crops
-- [ ] entraîner yolo uniquement en localisation de caractère sans classe
+- [X] sortir résultats par image val
+- [X] tableau / schéma distribution des résultats en val
+- [X] reprise des entraînements en touchant au DropOut / Conf / IoU / loss gain
+- [X] exporter crops de chaque bbox
 
+## Archive (lack)
+- [X] entraîner classifieur indépendant pour les crops
+- [X] entraîner yolo uniquement en localisation de caractère sans classe
+- [X] reproduire expérience baseline
 
 
 ### Archive

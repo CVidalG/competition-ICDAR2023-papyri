@@ -26,9 +26,11 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 | 2023-04-02_1 | yolov5l6.pt | 0.674   | 0.522   | 0.629       | 0.401         | 24      | 1536       | 0.45     | 0.90       | default augment / with inverted data / with split baseline / lrf: 0.1 / nbs: 128       |
 | 2023-04-02_2 | yolov5l6.pt | 0.729   | 0.514   | 0.650       | 0.400         | 24      | 1536       | 0.45     | 0.90       | with inverted data / with split baseline / with BG img       |
 | 2023-04-03_1 | yolov5l6.pt | 0.749   | 0.527   | 0.670       | 0.410         | 24      | 2048       | 0.45     | 0.90       | with inverted data / with split baseline / with BG img / BS 1      |
-| 2023-04-04_full | yolov5l6.pt | 0.792   | 0.589   | 0.716       | 0.425         | 24      | 1536       | 0.45     | 0.90       | with inverted data / with split baseline / with BG img / DO 0.1      |
+| 2023-04-04_full | yolov5l6.pt | 0.790   | 0.597   | 0.720       | 0.428         | 24      | 1536       | 0.45     | 0.90       | with inverted data / with split baseline / with BG img / DO 0.1      |
 | 2023-04-04_default | yolov5l6.pt | 0.705   | 0.575   | 0.624       | 0.349         | 24      | 1536       | null     | 0.70       | with inverted data / default clean config |
 | 2023-04-12_full | yolov5l6.pt | 0.822   | 0.403   | 0.626       | 0.38         | 24      | 1536       | 0.65     | 0.90       | with inverted data / clean install / cls 1.5 |
+| 2023-04-13_full-1 | yolov5l6.pt | 0.767   | 0.536   | 0.679       | 0.416         | 24      | 1536       | 0.65     | 0.90       | with inverted data / clean install / box 3.5 / DO 0.3 |
+| 2023-04-13_full-2 | yolov5l6.pt | 0.692   | 0.517   | 0.634       | 0.38         | 24      | 1280       | 0.65     | 0.90       | same 2023-04-13_full-1 with size 1280 |
 
 
 #### Experiments on HyperParameters (100 epochs)
