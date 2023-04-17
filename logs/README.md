@@ -32,7 +32,8 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 | 2023-04-13_full-1 | yolov5l6.pt | 0.767   | 0.536   | 0.679       | 0.416         | 24      | 1536       | 0.65     | 0.90       | with inverted data / clean install / box 3.5 / DO 0.3 |
 | 2023-04-13_full-2 | yolov5l6.pt | 0.692   | 0.517   | 0.634       | 0.38         | 24      | 1280       | 0.65     | 0.90       | same 2023-04-13_full-1 with size 1280 |
 | 2023-04-14_mega | yolov5x6.pt | 0.81   | 0.575   | 0.714       | 0.436         | 24      | 1536       | 0.65     | 0.90       | move some val img to train folder / reduce augmentation / box 3.5 / cls 1.0 / DO 0.15  |
-| 2023-04-16_giga | yolov5l6.pt | 0.812   | 0.619   | 0.744       | 0.457         | 24      | 1536       | 0.35     | 0.70       | move some val img to train folder + all test in train / reduce augmentation / box 3.5 / cls 1.0 / DO 0.0  |
+| 2023-04-16_giga | yolov5l6.pt | 0.812   | 0.619   | 0.744       | 0.457         | 24      | 1536       | 0.35     | 0.70       | normal data / move some val img to train folder + all test in train / reduce augmentation / box 3.5 / cls 1.0 / DO 0.0  |
+| 2023-04-17_giga | yolov5l6.pt | 0.886   | 0.59   | 0.747       | 0.466         | 24      | 1536       | 0.65     | 0.80       | inverted data / boost augmentation / box 3.5 / cls 1.0 / DO 0.0  |
 
 #### Experiments on HyperParameters (100 epochs)
 
@@ -89,4 +90,81 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 
 
 
+
+#### benchmark submission
+
+model_2023_04_04_full
+imgsz=1536 (submission #2, score: 35.334926)
+                   all         25       6245      0.812      0.648      0.757      0.454
+imgsz=2048 (submission #4, score: 36.32253)
+                   all         25       6245      0.812      0.666      0.767      0.467
+imgsz=2048, iou=0.2 (submission #8, score: 35.680999)
+                   all         25       6245      0.867      0.675      0.787      0.478
+imgsz=2048, iou=0.1
+                   all         25       6245      0.867      0.675      0.787      0.478
+imgsz=2048, iou=0.2, conf=0.5
+                   all         25       6245      0.865      0.676      0.788      0.477
+imgsz=2048, iou=0.2, conf=0.9
+                   all         25       6245      0.953      0.359      0.657      0.426
+imgsz=2048, iou=0.2, conf=0.1 (submission #11, score: 36.419509)
+                   all         25       6245      0.834      0.707      0.791      0.469
+imgsz=2048, iou=0.2, conf=0.01
+                   all         25       6245      0.834      0.707      0.789      0.458
+imgsz=3072, iou=0.2 (submission #9, score: 34.94001)
+                   all         25       6245      0.851      0.673      0.787      0.483
+imgsz=3072, iou=0.9 (submission #7, failed)
+                   all         25       6245      0.815      0.667      0.772      0.473
+
+model_2023_04_13_full
+imgsz=2048
+                   all         25       6245      0.763      0.627      0.732      0.453
+imgsz=2112
+                   all         25       6245      0.752      0.628      0.725       0.45
+imgsz=2176
+                   all         25       6245      0.751      0.629      0.725      0.451
+imgsz=2240
+                   all         25       6245      0.764      0.645      0.737      0.456
+imgsz=2368
+                   all         25       6245      0.768      0.636      0.735      0.457
+imgsz=2048, iou=0.2, conf=0.1 (submission #12, score: 36.422513)
+                   all         25       6245       0.83      0.703      0.805      0.482
+imgsz=2048, iou=0.2, conf=0.35
+                   all         25       6245      0.836      0.695      0.796      0.485
+imgsz=2048, iou=0.4, conf=0.35
+                   all         25       6245      0.836      0.695      0.796      0.485
+imgsz=2048, iou=0.7, conf=0.35
+                   all         25       6245      0.835      0.695      0.795      0.485
+imgsz=2048, iou=0.8, conf=0.35
+                   all         25       6245      0.838      0.685      0.792      0.482
+imgsz=2048, iou=0.8, conf=0.55
+                   all         25       6245      0.872      0.667      0.789      0.486
+imgsz=2048, iou=0.8, conf=0.65
+                   all         25       6245      0.917      0.626       0.78      0.484
+imgsz=2048, iou=0.8, conf=0.75
+                   all         25       6245      0.948      0.519      0.737      0.462
+imgsz=3072, iou=0.2
+                   all         25       6245      0.863      0.691      0.796      0.487
+
+
+model_2023_04_16_giga
+imgsz=2048, iou=0.2
+                   all         25       6245      0.873      0.605      0.752      0.463
+imgsz=2048, iou=0.2, conf=0.1
+                   all         25       6245      0.846       0.64      0.758      0.451
+imgsz=3072, iou=0.2
+                   all         25       6245       0.87      0.652      0.782      0.466
+
+
+
+model_2023_04_17_giga
+imgsz=1536, iou=0.2, conf=0.1
+                   all         25       6245      0.783      0.662      0.755      0.439
+imgsz=2048 (submission #10, score: 34.732471)
+                   all         25       6245      0.802      0.637      0.745      0.452
+imgsz=2048, iou=0.2, conf=0.1
+                   all         25       6245      0.857      0.666      0.783      0.461
+imgsz=2048, iou=0.2, conf=0.35
+                   all         25       6245      0.857      0.666       0.78      0.466
+imgsz=3072, iou=0.2
+                   all         25       6245      0.836      0.664      0.778      0.473
 
