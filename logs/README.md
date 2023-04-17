@@ -32,7 +32,7 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 | 2023-04-13_full-1 | yolov5l6.pt | 0.767   | 0.536   | 0.679       | 0.416         | 24      | 1536       | 0.65     | 0.90       | with inverted data / clean install / box 3.5 / DO 0.3 |
 | 2023-04-13_full-2 | yolov5l6.pt | 0.692   | 0.517   | 0.634       | 0.38         | 24      | 1280       | 0.65     | 0.90       | same 2023-04-13_full-1 with size 1280 |
 | 2023-04-14_mega | yolov5x6.pt | 0.81   | 0.575   | 0.714       | 0.436         | 24      | 1536       | 0.65     | 0.90       | move some val img to train folder / reduce augmentation / box 3.5 / cls 1.0 / DO 0.15  |
-
+| 2023-04-16_giga | yolov5l6.pt | 0.812   | 0.619   | 0.744       | 0.457         | 24      | 1536       | 0.35     | 0.70       | move some val img to train folder + all test in train / reduce augmentation / box 3.5 / cls 1.0 / DO 0.0  |
 
 #### Experiments on HyperParameters (100 epochs)
 
