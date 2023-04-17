@@ -93,6 +93,7 @@ yolo detect val data=/path/to/my_yaml.yaml model=/path/to/my_best_model.pt
 
 #### benchmark submission
 
+```
 model_2023_04_04_full
 imgsz=1536 (submission #2, score: 35.334926)
                    all         25       6245      0.812      0.648      0.757      0.454
@@ -167,4 +168,4 @@ imgsz=2048, iou=0.2, conf=0.35
                    all         25       6245      0.857      0.666       0.78      0.466
 imgsz=3072, iou=0.2
                    all         25       6245      0.836      0.664      0.778      0.473
-
+```
